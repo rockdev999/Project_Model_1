@@ -33,12 +33,12 @@ project-root/
 
    Open the main file:
    `bash
-     index.html
-     `
+  index.html
+  `
 
 2. GitHub Pages:
    ```bash
-   xxxxx
+   https://rockdev999.github.io/Project_Model_1/
    ```
 
 ## 🛠️ Built With
@@ -46,3 +46,9 @@ project-root/
 - HTML5
 - CSS
 - GitHub Pages
+
+## IMAGES OF PROJECT
+
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
